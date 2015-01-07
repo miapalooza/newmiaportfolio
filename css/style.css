@@ -1,0 +1,54 @@
+.navbar {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #FFF;
+	padding-left: 20px;
+	padding-right: 10px;
+	color: #FFF;
+}
+
+.navbar-text h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.navbar-text p {
+	font-size: 14px;
+	margin-top: -5px;
+}
+
+.navbar-right a {
+	margin-top: 30px;
+	color: #FFF;
+}
+
+.navbar-toggle {
+	margin-top: 30px;
+	border: none;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.row img {
+	width: 150px;
+	margin: 0 auto 0 auto;
+}
+
+#me {
+	width: 200px;
+}
+
+h1 {
+	font-weight: 800;
+	font-size: 24px;
+}
+
+.intro {
+	width: 100%;
+	background-image: url("../images/trianglebackground.png");
+	padding-top: 20px;
+	padding-bottom: 30px;
+	margin-top: -20px;
+	border-bottom: 1px solid #E1E1E1;
+}
